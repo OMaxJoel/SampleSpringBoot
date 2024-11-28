@@ -12,8 +12,8 @@ body {
     margin: 0;
     padding: 0;
     color: var(--text-color);
-    background-image: url('https://via.placeholder.com/2000x2000'); /* Image lourde en arrière-plan */
-    background-size: cover;
+   /*  background-image: url('https://via.placeholder.com/2000x2000');  Image lourde en arrière-plan */
+  /*   background-size: cover;*/
 }
 
 header {
@@ -98,8 +98,8 @@ main {
     border-radius: 4px;
     text-decoration: none;
     transition: background-color 0.3s ease;
-    font-size: 20px; /* Taille excessive */
-    animation: rubberBand 10s infinite; /* Animation lourde */
+   /*  font-size: 20px; Taille excessive */
+ /*    animation: rubberBand 10s infinite; Animation lourde */
 }
 
 .btn-primary {
